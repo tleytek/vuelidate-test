@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-    Vue 2.6 + Composition API + Vuelidate 2
+    Vue 2.6 + Vuelidate 2 (Using Composition API)
+    <br>
     <input type="text" v-model="input" />
     <div>{{ input }} With useVuelidate()</div>
   </div>
